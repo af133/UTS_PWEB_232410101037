@@ -24,11 +24,6 @@ Halaman utama setelah login yang menampilkan:
 - Menampilkan data pengguna seperti nama, email, dan informasi lainnya
 - Opsi untuk mengubah atau memperbarui informasi profil
 
-## 🛠️ Teknologi yang Digunakan
-- HTML, CSS, JavaScript
-- PHP (opsional, jika backend lokal digunakan)
-- MySQL (untuk menyimpan data pengguna dan pesanan)
-- Framework/Library tambahan (jika ada): Bootstrap, jQuery, dsb.
 
 ## 📸 Cuplikan Layar *(Optional - tambahkan gambar di sini)*
 > Tambahkan tangkapan layar dari masing-masing fitur utama untuk memberikan gambaran visual kepada pengguna.
